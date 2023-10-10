@@ -5,7 +5,7 @@ const menu = [
     category: "Korea",
     price: 10.99,
     img: "https://twoplaidaprons.com/wp-content/uploads/2020/09/tteokbokki-top-down-view-of-tteokbokki-in-a-bowl-500x500.jpg",
-    desc: `Spicy rice cakes, serving with fish cake.`,
+    desc: `Spicy rice cakes, serving with fish cake`,
   },
   {
     id: 2,
